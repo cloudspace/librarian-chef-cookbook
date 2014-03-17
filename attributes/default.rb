@@ -1,0 +1,1 @@
+default['librarian-chef']['app_path'] = false
